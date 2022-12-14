@@ -3,3 +3,4 @@
 # Shibei-RFC
 
 - [词典](./dict.md)
+- [进度](./progress.md)
