@@ -2,5 +2,6 @@
 
 # Shibei-RFC
 
+- [规则](./rule.md)
 - [词典](./dict.md)
 - [进度](./progress.md)
